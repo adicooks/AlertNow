@@ -6,3 +6,4 @@ __pycache__/
 audio.tflite
 .DS_Store
 audio/output.log
+video/client_side/weights/yolov3.weights
