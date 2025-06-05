@@ -235,7 +235,7 @@ def send_sms_alert():
                             from_=TWILIO_PHONE_NUMBER,
                             to=number
                         )
-                    logger.debug(" *** Sent out an SMS alert to all recipients using Twilio *** ")
+                    logger.debug(" *** Sent out an SMS alert to all designated recipients using Twilio *** ")
                 except Exception as e:
                     logger.debug(f"ERROR: Unable to successfully send an SMS alert using Twilio. Error: {str(e)}")
                     pass
