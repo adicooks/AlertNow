@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>500</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>AlertNow - Settings</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QLabel" name="label">
+      <property name="text">
+       <string>Enter your Camera ID &amp; Contact Info</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+      <property name="styleSheet">
+       <string>font-size: 22px; color: #007BFF;</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLineEdit" name="location_input">
+      <property name="placeholderText">
+       <string>Enter Camera ID</string>
+      </property>
+      <property name="styleSheet">
+       <string>font-size: 16px; padding: 10px; border-radius: 5px; border: 1px solid #007BFF;</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLineEdit" name="sendTo_input">
+      <property name="placeholderText">
+       <string>Enter Email or Phone</string>
+      </property>
+      <property name="styleSheet">
+       <string>font-size: 16px; padding: 10px; border-radius: 5px; border: 1px solid #007BFF;</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pushButton">
+      <property name="text">
+       <string>Start Monitoring</string>
+      </property>
+      <property name="styleSheet">
+       <string>background-color: #28A745; color: white; font-size: 18px;</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
