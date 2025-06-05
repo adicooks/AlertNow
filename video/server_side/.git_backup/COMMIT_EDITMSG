@@ -1,0 +1,42 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is behind 'origin/main' by 1 commit, and can be fast-forwarded.
+#   (use "git pull" to update your local branch)
+#
+# Changes to be committed:
+#	modified:   .gitignore
+#	new file:   alertnow1
+#	modified:   alertnow_backend/settings.py
+#	new file:   requirements.txt
+#	new file:   static/images/0d34db84-e8e2-4a85-b191-43ce2c76c406.jpg
+#	new file:   static/images/20e6540b-cdc2-4d14-be55-004a22549454.jpg
+#	new file:   static/images/2536fb25-95ae-401a-afac-57bd50367b49.jpg
+#	new file:   static/images/3fe2b771-6cf1-4551-83cc-70365ec0eeed.jpg
+#	new file:   static/images/52939f08-f4c5-421b-ac1f-1890df9fc7a8.jpg
+#	new file:   static/images/6284918a-82ec-4921-aabc-b31b10eb8180.jpg
+#	new file:   static/images/6940afe3-d60e-48af-89ee-72f6acd63f53.jpg
+#	new file:   static/images/6de001f8-d668-423a-88df-3f4cf5bb5f4d.jpg
+#	new file:   static/images/7b539800-6d4e-423c-bb3f-72dd17b8277f.jpg
+#	new file:   static/images/86c676b6-4422-44e6-a5ce-50dcb09cb787.jpg
+#	new file:   static/images/9f48cd3c-00e7-4f2e-b641-9d8853ad7bf6.jpg
+#	new file:   static/images/f8152e87-31b2-49e2-85ce-997689169ff9.jpg
+#
+# Changes not staged for commit:
+#	deleted:    static/images/20e6540b-cdc2-4d14-be55-004a22549454.jpg
+#	deleted:    static/images/2536fb25-95ae-401a-afac-57bd50367b49.jpg
+#	deleted:    static/images/3fe2b771-6cf1-4551-83cc-70365ec0eeed.jpg
+#	deleted:    static/images/52939f08-f4c5-421b-ac1f-1890df9fc7a8.jpg
+#	deleted:    static/images/6284918a-82ec-4921-aabc-b31b10eb8180.jpg
+#	deleted:    static/images/6940afe3-d60e-48af-89ee-72f6acd63f53.jpg
+#	deleted:    static/images/6de001f8-d668-423a-88df-3f4cf5bb5f4d.jpg
+#	deleted:    static/images/7b539800-6d4e-423c-bb3f-72dd17b8277f.jpg
+#	deleted:    static/images/86c676b6-4422-44e6-a5ce-50dcb09cb787.jpg
+#	deleted:    static/images/9f48cd3c-00e7-4f2e-b641-9d8853ad7bf6.jpg
+#	deleted:    static/images/f8152e87-31b2-49e2-85ce-997689169ff9.jpg
+#
+# Untracked files:
+#	Pipfile
+#
